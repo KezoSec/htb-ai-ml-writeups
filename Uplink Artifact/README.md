@@ -1,9 +1,3 @@
-(venv) MacBook-Pro-von-Saher:Uplink Artifact kezodoh$ grep "img src" README.md
-<img src="images/image.png" width="600">
-<img src="images/scatter.png" width="600">
-<img src="images/qr.png" width="400">
-<img src="images/terminal.png" width="600"># Uplink Artifact - HTB AI/ML Challenge Writeup
-
 **Difficulty:** Very Easy  
 **Category:** AI/ML
 
